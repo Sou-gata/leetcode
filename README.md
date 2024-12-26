@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0661-image-smoother](https://github.com/Sou-gata/leetcode/tree/master/0661-image-smoother) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/Sou-gata/leetcode/tree/master/0661-image-smoother) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Simulation
 |  |
