@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/Sou-gata/leetcode/tree/master/1168-duplicate-zeros) |
+| [1287-distance-between-bus-stops](https://github.com/Sou-gata/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
