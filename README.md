@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
