@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sou-gata/leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Sou-gata/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sou-gata/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
