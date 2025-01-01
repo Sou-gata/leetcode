@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sou-gata/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sou-gata/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sou-gata/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
