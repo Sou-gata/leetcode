@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sou-gata/leetcode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sou-gata/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sou-gata/leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sou-gata/leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1306-minimum-absolute-difference](https://github.com/Sou-gata/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sou-gata/leetcode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
