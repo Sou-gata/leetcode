@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3632-button-with-longest-push-time](https://github.com/Sou-gata/leetcode/tree/master/3632-button-with-longest-push-time) |
 ## Hash Table
 |  |
 | ------- |
