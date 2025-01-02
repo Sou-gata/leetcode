@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sou-gata/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Sou-gata/leetcode/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sou-gata/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sou-gata/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sou-gata/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sou-gata/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
