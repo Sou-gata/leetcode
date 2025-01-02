@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sou-gata/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sou-gata/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1306-minimum-absolute-difference](https://github.com/Sou-gata/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sou-gata/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
