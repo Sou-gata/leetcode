@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Sou-gata/leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sou-gata/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sou-gata/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sou-gata/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sou-gata/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sou-gata/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sou-gata/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sou-gata/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
