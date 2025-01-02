@@ -1,10 +1,4 @@
 class Solution:
-    def fact(self, n: int) -> int:
-        f = 1
-        for i in range(2, n + 1):
-            f *= i
-        return f
-
     def numIdenticalPairs(self, nums: list[int]) -> int:
         counts = {}
         for n in nums:
@@ -16,7 +10,7 @@ class Solution:
         for i in counts.keys():
             count = counts[i]
             if counts[i] >= 2:
-                ncr = self.fact(count) // (2 * self.fact(count - 2))
-                total += ncr
+                n = (count * (count - 1)) // 2
+                total += n
         return total
         
