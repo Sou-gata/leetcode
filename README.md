@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sou-gata/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/Sou-gata/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Sou-gata/leetcode/tree/master/0661-image-smoother) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sou-gata/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sou-gata/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Sou-gata/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sou-gata/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Sou-gata/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
