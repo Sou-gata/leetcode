@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Sou-gata/leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Sou-gata/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sou-gata/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Sou-gata/leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sou-gata/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sou-gata/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Sou-gata/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Sou-gata/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
