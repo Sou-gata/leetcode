@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Sou-gata/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/Sou-gata/leetcode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sou-gata/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sou-gata/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Sou-gata/leetcode/tree/master/1041-available-captures-for-rook) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sou-gata/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Sou-gata/leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Sou-gata/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sou-gata/leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1306-minimum-absolute-difference](https://github.com/Sou-gata/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
