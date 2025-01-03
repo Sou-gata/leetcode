@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Sou-gata/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sou-gata/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Sou-gata/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sou-gata/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sou-gata/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Sou-gata/leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1306-minimum-absolute-difference](https://github.com/Sou-gata/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sou-gata/leetcode/tree/master/0035-search-insert-position) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Sou-gata/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sou-gata/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Geometry
