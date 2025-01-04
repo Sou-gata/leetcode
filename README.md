@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sou-gata/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sou-gata/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sou-gata/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sou-gata/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sou-gata/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sou-gata/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sou-gata/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/Sou-gata/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/Sou-gata/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Sou-gata/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Binary Search
