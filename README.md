@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sou-gata/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1751-slowest-key](https://github.com/Sou-gata/leetcode/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sou-gata/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sou-gata/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sou-gata/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Sou-gata/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sou-gata/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Sou-gata/leetcode/tree/master/1651-shuffle-string) |
 | [1751-slowest-key](https://github.com/Sou-gata/leetcode/tree/master/1751-slowest-key) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sou-gata/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Sou-gata/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sou-gata/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Sou-gata/leetcode/tree/master/1036-rotting-oranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
