@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sou-gata/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sou-gata/leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/Sou-gata/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/Sou-gata/leetcode/tree/master/1944-truncate-sentence) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sou-gata/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Sou-gata/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Sou-gata/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/Sou-gata/leetcode/tree/master/1944-truncate-sentence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
