@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sou-gata/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sou-gata/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sou-gata/leetcode/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sou-gata/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Sou-gata/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Sou-gata/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Sou-gata/leetcode/tree/master/1944-truncate-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sou-gata/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
