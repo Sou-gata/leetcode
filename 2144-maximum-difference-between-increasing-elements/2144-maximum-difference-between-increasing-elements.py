@@ -6,8 +6,6 @@ class Solution:
             if nums[i] == prefix_min:
                 continue
             d = nums[i] - prefix_min
-            if d == 0:
-                print(nums[i], prefix_min, i)
             if max_diff < d:
                 max_diff = d
             if nums[i] < prefix_min:
