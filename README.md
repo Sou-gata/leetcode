@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sou-gata/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sou-gata/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sou-gata/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sou-gata/leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Sou-gata/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Sou-gata/leetcode/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sou-gata/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sou-gata/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sou-gata/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sou-gata/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Sou-gata/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sou-gata/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sou-gata/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Stack
