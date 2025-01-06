@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Sou-gata/leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sou-gata/leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sou-gata/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sou-gata/leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Sou-gata/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sou-gata/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sou-gata/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sou-gata/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Sou-gata/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3516-design-neighbor-sum-service](https://github.com/Sou-gata/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Stack
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sou-gata/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Sou-gata/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
