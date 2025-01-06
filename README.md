@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sou-gata/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/Sou-gata/leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/Sou-gata/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sou-gata/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sou-gata/leetcode/tree/master/2358-number-of-ways-to-split-array) |
