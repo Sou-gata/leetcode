@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sou-gata/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Sou-gata/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0952-word-subsets](https://github.com/Sou-gata/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/Sou-gata/leetcode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Sou-gata/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sou-gata/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sou-gata/leetcode/tree/master/0575-distribute-candies) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sou-gata/leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sou-gata/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sou-gata/leetcode/tree/master/0443-string-compression) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sou-gata/leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Sou-gata/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
