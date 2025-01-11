@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sou-gata/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sou-gata/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Sou-gata/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sou-gata/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sou-gata/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Sou-gata/leetcode/tree/master/1547-destination-city) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sou-gata/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sou-gata/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sou-gata/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sou-gata/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sou-gata/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sou-gata/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Sou-gata/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sou-gata/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sou-gata/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Sou-gata/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
