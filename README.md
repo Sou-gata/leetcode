@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sou-gata/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Sou-gata/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Sou-gata/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sou-gata/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Sou-gata/leetcode/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Sou-gata/leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0952-word-subsets](https://github.com/Sou-gata/leetcode/tree/master/0952-word-subsets) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sou-gata/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sou-gata/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sou-gata/leetcode/tree/master/0443-string-compression) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sou-gata/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1168-duplicate-zeros](https://github.com/Sou-gata/leetcode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/Sou-gata/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sou-gata/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sou-gata/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sou-gata/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sou-gata/leetcode/tree/master/0443-string-compression) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sou-gata/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sou-gata/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Sou-gata/leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/Sou-gata/leetcode/tree/master/1044-find-common-characters) |
