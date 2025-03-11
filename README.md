@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Sou-gata/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Sou-gata/leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
