@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sou-gata/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Sou-gata/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sou-gata/leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Sou-gata/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Sou-gata/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sou-gata/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sou-gata/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Sou-gata/leetcode/tree/master/1656-count-good-triplets) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sou-gata/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sou-gata/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Sou-gata/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
